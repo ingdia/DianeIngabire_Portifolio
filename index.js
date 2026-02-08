@@ -414,9 +414,9 @@ class PortfolioApp {
                 githubUrl: "https://github.com/username/task-management-app"
             },
             project3: {
-                title: "Analytics Dashboard",
-                image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-                technologies: [ "mySQL", "Python"],
+                title: "Yego She Can Platform ",
+                image: "./yegoshecan.png",
+                technologies: [ "next jS", "PostgresQl", "Typescript", "node js"],
                 description: "A comprehensive analytics dashboard with real-time data visualization, interactive charts, and customizable reports for business intelligence.",
                 features: [
                     "Real-time data visualization",
@@ -428,7 +428,7 @@ class PortfolioApp {
                     "Mobile-responsive design"
                 ],
                 challenges: "Handling large datasets and ensuring smooth real-time updates was complex. I optimized performance using data virtualization, implemented WebSocket connections for real-time updates, and used efficient D3.js rendering techniques.",
-                liveUrl: "https://analytics-dashboard.com",
+                liveUrl: "https://underserved-women-i7yu.vercel.app/",
                 githubUrl: "https://github.com/username/analytics-dashboard"
             }
         };
