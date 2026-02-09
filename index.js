@@ -429,7 +429,7 @@ class PortfolioApp {
                 ],
                 challenges: "Handling large datasets and ensuring smooth real-time updates was complex. I optimized performance using data virtualization, implemented WebSocket connections for real-time updates, and used efficient D3.js rendering techniques.",
                 liveUrl: "https://underserved-women-i7yu.vercel.app/",
-                githubUrl: "https://github.com/username/analytics-dashboard"
+                githubUrl: "https://github.com/Klab-Rwanda/underserved-women"
             }
         };
 
